@@ -1,5 +1,0 @@
-
- [RegularExpression(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$",ErrorMessage = "Email in not valid")]   
-
- [RegularExpression("^[0-9]*$",ErrorMessage = "Invalid Phone Number")] 
-
